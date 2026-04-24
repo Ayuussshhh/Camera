@@ -1,0 +1,12 @@
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+frontend/.env
+python-ai/.venv/
+python-ai/**/__pycache__/
+python-ai/**/*.pyc
+python-ai/datasets/*
+!python-ai/datasets/.gitkeep
+python-ai/embeddings/*
+!python-ai/embeddings/.gitkeep
+database/*
